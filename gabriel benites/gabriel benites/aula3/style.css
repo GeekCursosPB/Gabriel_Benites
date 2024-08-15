@@ -1,0 +1,9 @@
+.cabecalho{
+    background: #306b06;padding:20px 50px;color: #fff;
+}
+
+#titulao{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
