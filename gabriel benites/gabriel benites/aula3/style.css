@@ -1,9 +1,29 @@
 .cabecalho{
-    background: #306b06;padding:20px 50px;color: #fff;
+    background: #00105e;padding:20px 50px;color: #eeeeee;
 }
 
 #titulao{
     display: flex;
     justify-content: center;
     text-align: center;
+
+}
+
+#problematico {
+    display: inline-flex;
+    justify-content: center;
+    align-items: left;
+}
+
+#toc {
+       display: flex;
+}
+
+#foto{
+
+    display: flex;
+}
+
+#troca{
+    display: flex;
 }
