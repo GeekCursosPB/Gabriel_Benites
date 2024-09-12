@@ -1,0 +1,38 @@
+.cabecalho{
+    background: #00105e;padding:20px 50px;color: #eeeeee;
+}
+
+#titulao{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#problematico {
+    display: inline-flex;
+    justify-content: center;
+    align-items: left;
+}
+
+#toc {
+       display: flex;
+}
+
+#foto{
+
+    display: flex;
+}
+
+#troca{
+    display: flex;
+}
+
+#moth{
+
+    display:flex;
+    background-color: blue;
+    padding:  10px 50 px;
+    color: #eeeeee;
+}
+
